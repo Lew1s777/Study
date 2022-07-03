@@ -1,0 +1,11 @@
+## What do you learn from the deeds of science pioneers
+- Scientific breakthroughs greatly improve the quality of our life.
+- Be grateful for the things we own and the life we are living.
+- Our knowledge about the world is constantly changing.
+-  Never take anything for granted, learn to be curious about everything.
+- Great inventions/discoveries in turn can be used as tools for us to explore the new frontiers. We should stand on the shoulders of the giants.
+- Great inventions/discoveries may happen by accident. 
+- We should be observant and seize the opportunity.
+- Pursue your dreams restlessly. To succeed in a way, means putting up with some hardship, and being persistent.
+- To be Brilliant, one should pursue his/her dreams Restlessly, be Enthusiastic about every possibility, Ambitious about the potential achievement,  Keen on exploration, Tough in the face of hardship, Helpful to his/her partners,  Reluctant to give in to hopeless situations, Observant about the surroundings and Unsatisfied with the known. Even when he becomes a Giant, he still remains Humble(modest).
+- Be Passionate in your future career; strive to be an Innovator in your major; be Observant about every Nicety(detail); be Enthusiastic about the new; Engaged in whatever you do and accomplish Remarkable achievement some day.
