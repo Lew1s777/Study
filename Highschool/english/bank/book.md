@@ -42,3 +42,17 @@ What made him feel satisfaied was that his students were able to read,speak,and 
 Although he had only intended to stay for one year,he now feels ready to stay for another year.
 
 L1W1
+
+
+
+[英语演讲帮(高三上期末作文题目)](./writting)主题
+
+- correct my pronunciation and intonation
+- teach me how to use the language properly and logically
+- polish my speech draft again and again
+- teach me some speech skills
+- suggest interacting with the audience
+- remind me to use body language to strengthen the expressive force
+- give me support and encouragement when…
+- help me build up confidence
+- offer good speech videos to me to imitate

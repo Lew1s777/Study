@@ -22,7 +22,7 @@
 气味|smell|```fragrance```(花香) ```aroma```(芳香) ```odor```(臭味)
 信心|confidence|```faith```
 竞争对手|opponent|```competitor``` ```contestant```(参赛选手)
-交通工具|traffic tools|```vehicle``` ```transportation tools
+交通工具|traffic tools|```vehicle``` ```transportation tools```
 物品|thing|```article``` ```gadget``` ```item```
 餐巾纸|tissue |```napkin```
 课程|course|```curriculum```
@@ -45,13 +45,13 @@
 朝...走去|walk to|```head for```
 冲刺|run fast towards|```dart``` ```dash``` ```sprint``` ```spurt```
 充满|be full of|```be filled with``` ```be laden with``` ```be teaming with``` ```sweel with impart/instill```
-传授|teach|```impart``` ```imstill
+传授|teach|```impart``` ```imstill```
 导致|lead to|```result in``` ```contribute to``` ```bring about```
 道歉|apologize|```feel apologteic for``` ```make an apology to sb for doing sth```
 发生|happen|```occur``` ```come about``` ```take place``` ```break out```
 反对|be against|```oppose``` ```object to```
 感到舒心|feel comfortable|```feel at ease``` ```feel relieved```
-感谢|thank|```appreciate``` ```be grateful for``` ```show gratitude to sb for sth
+感谢|thank|```appreciate``` ```be grateful for``` ```show gratitude to sb for sth```
 购买|buy|```purchase```
 归因|owe...to...|```attribute/ascribe sth to ...```
 回忆|remember|```reminisce about``` ```recall``` ```recollect``` (eg. We spent a happy evening reminiscing about the past)
@@ -146,7 +146,7 @@
 最终|finally|```at last``` ```eventually``` ```ultimately```
 首先|first|```to begin``` ```start with``` ```first and foremost``` ```initially``` ```primarily```
 如果|if|```suppose``` ```supposing``` ```on condition that```
-立即|immediately|```instantly/in a flash
+立即|immediately|```instantly/in a flash```
 总之|in a word|```to sum up``` ```to wrap up``` ```in conclusion``` ```in summary```
 事实上|In fact|```as a matter of fact``` ```actually``` ```virtually```
 越来越多|more and more|```an increasing number/amount of```

@@ -10,7 +10,7 @@
 
 possible version1 (141words)
 ```Dear Chris,
-  I feel terribly sorry that I can't make my way to our show on the Festival ofTraditional Culture.
+  I feel terribly sorry that I can't make my way to our show on the Festival of Traditional Culture.
   Unfortunately, I hurt myself accidentally when I was playing basketball last night.As a result, I'm suffering a badly fractured arm, which means it's impossible for me to practice Taijiquan for at least a month and my performance will be blown up.It's really a pity that I will fail to show up with you. Knowing that you have been waiting for this moment so long, I strongly recommend Jim replace me. As an enthusiast, he's an excellent Taiji player. Besides, Jim is very cooperative and easygoing, who's the most suitable person I can think of.
   I do understand you need me badly but I still hope you could forgive me.
 Yours,
@@ -187,4 +187,66 @@ visit China. I will be very grateful ityou can do me the favor.
 Looking forward to your reply.
 Yours
 Li Hua
+```
+
+## 感谢信
+
+#### 1
+假设你是红星中学高三学生李华。你参加了学校举办的线上英文演讲比赛。在淮备的过程中，你的英国朋友 Jim 给了你很多帮助。请你用英文给他
+写一封邮件表达感谢，内容包括：
+- 1. 介绍比赛结果；
+- 2.回顾Jim 对你的帮助。
+
+注意:
+- 1.词数不少于 100；
+- 2.开头和结尾己给出，不计入总词数。
+
+范文1(96w)
+```
+Dear Jim,
+       How are you doing? The online English Speech Contest ended last Friday and I got the first 
+prize. I'm writing to express my heartfelt thanks and share my happiness with you.
+       I really appreciate your help in my pronunciation, which made my speech clearer and gave me
+much confidence. In addition, you taught me some speech skills, reminding me to interact with the
+audience with body language. You constantly encouraged me to overcome all the difficulties I met.
+
+       Thanks again for what you've done for me. If you need any help, I'm always here for you. 
+Yours,
+Li Hua
+```
+范文2(101w)
+```
+Dear Jim,
+      How's everything? I'm writing to express my sincere thanks for the comfort and encouragement
+you gave me during the online English Speech Contest.
+      With your help, I won the first prize and ranked among the top three. It was your inspiration
+that got me through the tough period. I still remember when I had difficulty speaking English confidently
+and thought of giving up. It was you who encouraged me to insist. Your smiling face and inspiring
+words were like fire in the dark freezing winter nights, which will always give me strength.
+      Once more, I would like to say, "Thank you". 
+Yours, 
+Li Hua
+```
+
+## 邀请信
+2022高考
+---
+  假设你是红星中学高三学生李华。你打算邀请英国好友Jim为你们班做一次关于英语写作的线上经验交流。请你用英文给他写一封电子邮件，内容包括:
+- 1．建议交流的具体内容及其原因；
+- 2．交流时间和其他相关事项。
+注意:
+- 1．词数不少于100 ;
+- 2．开头和结尾已给出，不计入总词数。
+```
+Dear Jim,
+    How’s everything?
+    I’m writing to invite you to give us an online talk on English writing. Our classmates
+seem to be weak in organization. Would you please give us some suggestions on how to connect 
+sentences logically, how to develop a paragraph, and how to structure an essay?
+    The talk will be about an hour, and you can decide on a date at your convenience. Please
+let me know which platform you’ll be using. It would be great if we could have a 10-minute
+question and answer session at the end of your talk.
+    Looking forward to your reply.
+Yours,
+Lihua
 ```

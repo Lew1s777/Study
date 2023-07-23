@@ -1,9 +1,15 @@
-# Study repo #
-This is my study repository
+Study
+===
+This is the repository where I keep my study notes and materials.
 
-[中文](./README.cn.md) | [English](./README.md)
-
-if you want to clone this repo into your device,type in the command below in your terminal (emulator)
-```javascrpit
-git clone --depth 1 https://github.com/Lew1s777/Study.git
 ```
+敏而好學，不恥下問
+```
+
+---
+index
+
+- [English](./English/README.md) - English learning materials. mainly about my IELST course at BLCU.
+- [French]() - French learning materials.
+- [Chinese]() - Some ancient chinese
+- [secondary school](./Highschool/README.md) - Notes during highschool period.just wrote it casually & hope it's not funny.
