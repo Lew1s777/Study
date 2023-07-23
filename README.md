@@ -1,13 +1,15 @@
-# Study repo #
-This is my study repository
+Study
+===
+This is the repository where I keep my study notes and materials.
 
-[中文](./README.cn.md)
-
-Most of my file Were written in ___MarkDown___ format,which means if you want to read it offline,after download/clone the repository,you also need a markdown viewer. My markdown viewer is [NeoVim](https://github.com/neovim/neovim) + [Markdown Preview Plugin](https://github.com/iamcco/markdown-preview.nvim),if you are not a vim user,[Obsidian](https://github.com/obsidianmd/obsidian-releases) may be a good idea.
-
-Leave a star if you do appreciate this repo.
-
-if you want to clone this repo into your device,type in the command below in your terminal (emulator)
-```javascrpit
-git clone https://github.com/Lew1s777/Study.git
 ```
+敏而好學，不恥下問
+```
+
+---
+index
+
+- [English](./English/README.md) - English learning materials. mainly about my IELST course at BLCU.
+- [French]() - French learning materials.
+- [Chinese]() - Some ancient chinese
+- [secondary school](./Highschool/README.md) - Notes during highschool period.just wrote it casually & hope it's not funny.
