@@ -7,9 +7,17 @@ This is the repository where I keep my study notes and materials.
 ```
 
 ---
-index
+knowledge
 
-- [English](./English/README.md) - English learning materials. mainly about my IELST course at BLCU.
-- [French](./French/README.md) - French learning materials.
-- [Chinese]() - Some ancient chinese
-- [secondary school](./Highschool/README.md) - Notes during highschool period.just wrote it casually & hope it's not funny.
+- [English](./knowledge.english/README.md) - English learning materials.
+- [French](./knowledge.french/README.md) - French learning materials.
+- [Chinese](./knowledge.chinese/README.md) - Some ancient chinese.
+- [secondary school](./knowledge.highschool/README.md) - Notes during highschool period.just wrote it casually.hope it's not funny.
+- [programme]() - programmeing.
+
+---
+daily
+
+Some notes on everyday living skills
+
+- [cooking](./daily.cooking/README.md)
